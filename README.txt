@@ -1,4 +1,9 @@
-Please see the following information about the notebooks included in capstone project submission:
+Please see the following information about the notebooks included in capstone project:
+
+This poject was done in order to find the dependency of selected model's performance on reviews from different service providers (Yelp, Amazon & IMDb). I wanted to find whether a selected model's performance depend on the company when classifing good and bad reviews. Because, human beings have certain common properties when giving a good comment or a bad comment disreguard of the company they refer to. Main objective of this project is to find how relaiable a traind model on the reviews 1). Traind on mixed reviews, 2). Trained on company specific reviews. More details can be found in Project_Report.pdf frile.
+
+Basic information about some of the codes used in this analysis are given below.
+[For more information please send me a message : nalinda05kl@gmail.com]
 
 1. DataVisual.ipynb
 	This includes pre-processing and visualization of raw data.
