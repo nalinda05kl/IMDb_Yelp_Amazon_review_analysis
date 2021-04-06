@@ -1,3 +1,5 @@
+### Effects of Domain Specificity of Cumtomer Reviews on the Model Performance.
+
 Please see the following information about the notebooks included in the capstone project:
 
 This poject was done in order to find the dependency of selected model's performance on reviews from different service providers (Yelp, Amazon & IMDb). I wanted to find whether a selected model's performance depend on the company when classifing good and bad reviews. Because, human beings have certain common properties when giving a good comment or a bad comment disreguard of the company they refer to. Main objective of this project is to find how relaiable a traind model on the reviews 1). Traind on mixed reviews, 2). Trained on company specific reviews. More details can be found in Project_Report.pdf frile.
